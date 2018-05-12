@@ -1,0 +1,31 @@
+_repo: The-Raid-of-John-Brown-at-Harper-s-Ferry-as-I-Saw-It_35427
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35427-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leech, Samuel V.
+    aliases:
+    - Leech, S. V. (Samuel Vanderlip)
+    - Leech, Samuel Vanderlip
+    birthdate: 1837
+    deathdate: 1916
+    gutenberg_agent_id: '37662'
+    url: http://www.gutenberg.org/2009/agents/37662
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35427'
+  lccn: 09031259
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harpers Ferry (W. Va.) -- History -- John Brown''s Raid, 1859'
+- !lcc 'E300'
+title: The Raid of John Brown at Harper's Ferry as I Saw It
+url: http://www.gutenberg.org/ebooks/35427
